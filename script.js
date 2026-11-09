@@ -12,7 +12,6 @@ const nextButton = document.getElementById("next-button");
 const yesButton = document.getElementById("yes-button");
 const noButton = document.getElementById("no-button");
 
-const momentNumber = document.getElementById("moment-number");
 const momentTitle = document.getElementById("moment-title");
 const momentMessage = document.getElementById("moment-message");
 const momentImage = document.getElementById("moment-image");
