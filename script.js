@@ -87,7 +87,7 @@ function showMoment() {
     const moment = moments[currentMoment];
 
     momentNumber.textContent =
-        `moment ${currentMoment + 1} of ${moments.length} ♡`;
+        ``;
 
     momentTitle.textContent = moment.title;
     momentMessage.textContent = moment.message;
